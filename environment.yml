@@ -1,4 +1,4 @@
-name test_binder
+name: test_binder
 channels:
   - defaults
 dependencies:
