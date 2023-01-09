@@ -1,0 +1,7 @@
+name test_binder
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
