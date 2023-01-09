@@ -10,4 +10,7 @@ dependencies:
   - openalea.deploy 
   - openalea.mtg    
   - openalea.plantgl
-
+  - scipy 
+  - yaml 
+  - pyyaml
+  - rsml
