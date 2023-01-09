@@ -1,7 +1,13 @@
 name: test_binder
 channels:
+  - openalea3
+  - conda-forge
   - defaults
 dependencies:
   - pandas
   - numpy
   - matplotlib
+  - openalea-deploy 
+  - openalea-mtg    
+  - openalea-plantgl
+
