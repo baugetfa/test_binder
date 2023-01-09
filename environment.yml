@@ -7,7 +7,7 @@ dependencies:
   - pandas
   - numpy
   - matplotlib
-  - openalea-deploy 
-  - openalea-mtg    
-  - openalea-plantgl
+  - openalea.deploy 
+  - openalea.mtg    
+  - openalea.plantgl
 
